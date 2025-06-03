@@ -1,0 +1,16 @@
+{
+  "name": "backend_challenge",
+  "version": "1.0.0",
+  "description": "Here is a structured implementation of the backend challenge using Node.js (Express.js) for the Prime Number Check API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Akash Unhale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
